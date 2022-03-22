@@ -28,4 +28,4 @@ Hey, hope u are ok. My name is Vitor Pantoja, I'm 21 years old and I'm a student
   <a href="https://www.linkedin.com/in/josé-vitor-pantoja-travassos-4795a7222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
 
-  ![Snake animation](https://github.com/Panjissos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Panjissos/Panjissos/blob/output/github-contribution-grid-snake.svg)
