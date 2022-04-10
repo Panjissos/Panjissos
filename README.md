@@ -1,6 +1,7 @@
 ### Hi there :wave:
 
-Hey, hope u are ok. My name is Vitor Pantoja, I'm 21 years old and I'm a student of graduation of Computer Science at the Institute Federal University of Ceará, Brazil. :sparkles:
+Hey, hope u are ok. My name is Vitor Pantoja, I'm 21 years old and I'm a student of graduation of Computer Science at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+IFCE, Brazil. :sparkles:
 
 <div>
   <a href="https://github.com/Panjissos">
